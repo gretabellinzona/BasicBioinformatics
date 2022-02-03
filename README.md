@@ -1,0 +1,2 @@
+# BasicBioinformatics
+Basic Bioinformatics Script
