@@ -1,5 +1,5 @@
 # BasicBioinformatics
-Basic Bioinformatics Script
+Basic Bioinformatics Scripts
 
 ## GContent.py
 Compute GC content from a draft (or a complete, as well) genome. 
