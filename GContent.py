@@ -55,7 +55,7 @@ class parseArgs():
             else:
                 assert False, "Unhandled option %r"%opt
 
-   #Check manditory options are set
+   #Check mandatory options are set
             if not self.assembly:
                 self.display_help("Must provide FASTA file <-a,--assembly")
 
